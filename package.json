@@ -1,5 +1,16 @@
 {
-  "dependencies": {
-    "mongoose": "^5.13.7"
-  }
+"name": "NoSQL-Social-Network-API",
+"version": "1.0.0",
+"description": "",
+"main": "server.js",
+"scripts": {
+  "test": ""
+},
+"keywords": [],
+"author": "LTV",
+"license": "ISC",
+"dependencies": {
+  "express": "^4.17.1",
+  "mongoose": "^5.13.7"
+}
 }
